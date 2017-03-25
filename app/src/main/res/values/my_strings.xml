@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">姓名:</string>
+    <string name="gender">性別:</string>
+    <string name="female">女</string>
+    <string name="male">男</string>
+    <string name="weight">請輸入體重(公斤)</string>
+    <string name="height">請輸入身高(公尺)</string>
+    <string name="ast">星座:</string>
+    <string name="an">生肖:</string>
+    <string name="bmi">BMI</string>
+    <string name="n1">數1:</string>
+    <string name="n2">數2:</string>
+    <string name="sum">+</string>
+    <string name="minus">-</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+    <string name="mod">%(餘數)</string>
+    <string name="pow">次方</string>
+    <string name="integer">整數商</string>
+    <string name="getsb">取得SeekBar值</string>
+    <string name="getrb">取得RatingBar值</string>
+
+    <string name="d0">0</string>
+    <string name="d1">1</string>
+    <string name="d2">2</string>
+    <string name="d3">3</string>
+    <string name="d4">4</string>
+    <string name="d5">5</string>
+    <string name="d6">6</string>
+    <string name="d7">7</string>
+    <string name="d8">8</string>
+    <string name="d9">9</string>
+
+    <string name="phoneNumber">請輸入電話號碼</string>
+
+    <string name="wyear">西元年:</string>
+    <string name="cyear">民國年:</string>
+    <string name="ann">12生肖:</string>
+</resources>
